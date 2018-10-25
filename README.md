@@ -7,6 +7,8 @@ public class LoginPage {
 		// TODO Auto-generated method stub
 	
 		System.out.println("Welcome to test class");
+		System.out.println("Welcome to class");
+
 
 	}
 
